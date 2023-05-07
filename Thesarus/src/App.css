@@ -1,0 +1,50 @@
+body{
+background-color: bisque;
+}
+
+.Title{
+  color:black;
+  text-align: center;
+  font-size: 3rem;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-Box{
+  color:green;
+  width: 15rem;
+  height: 1rem;
+  margin-right: 50px;
+}
+.search-Box{
+  color:rgb(66, 9, 9);
+  background-color: rgb(188, 175, 159);
+  margin-left: 10px;
+  height: 2rem;
+  width: 6rem;
+font-size: medium;
+font-weight: bolder;
+}
+
+.synonyms{
+  text-align: center;
+ 
+}
+.synonyms-Btn{
+  background-color: burlywood;
+  margin: 2rem;
+  height: 3rem;
+  width: 15rem;
+  border-radius: 1rem;
+  text-align: center;
+  box-shadow:  5px 6px #888888;;
+  color:black;
+  font-weight: 600;
+  font-family:"Lucida Handwriting", "Courier New", monospace;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
